@@ -22,6 +22,6 @@ A website that will help students make career decisions based on their career in
  - Javascript
  - Bootstrap
   
-#� �C�a�r�e�e�r�-�G�u�i�d�a�n�c�e�
+##� �C�a�r�e�e�r�-�G�u�i�d�a�n�c�e�
 �
 �
